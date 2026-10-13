@@ -77,4 +77,6 @@ print(f"Sentiment: {sentiment}, Score: {score}")
 
 ---
 
+## Live Demo
+You can view the live application here: [Launch Streamlit App](https://simple-rnn-imdb-hxuvdnsa9oj2ft6amafrdt.streamlit.app)
 
